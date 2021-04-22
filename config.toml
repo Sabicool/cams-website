@@ -1,6 +1,6 @@
 baseURL = "www.example.com"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "Curtin Association of Medical Students"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -19,7 +19,7 @@ title = "Hugo Serif Theme"
     alt = "Serif - A Hugo Business Theme"
 
   [params.homepage_meta_tags]
-    meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_description = "The society for the students of Curtin University Medical School"
     meta_og_title = "Curtin Association of Medical Students"
     meta_og_type = "website"
     meta_og_url = "https://sabiqulhoque.me/"
@@ -53,7 +53,7 @@ title = "Hugo Serif Theme"
       weight = 3
 
   [[menu.main]]
-      name = "Contact"
+      name = "The Committee"
       url = "/contact/"
       weight = 4
 
