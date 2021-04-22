@@ -57,6 +57,11 @@ title = "Curtin Association of Medical Students"
       url = "/contact/"
       weight = 4
 
+  [[menu.main]]
+      name = "External Link"
+      url = "https://www.google.com/"
+      weight = 4
+
   # Footer Menu
   [[menu.footer]]
     name = "Home"
