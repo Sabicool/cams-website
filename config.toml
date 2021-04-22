@@ -33,7 +33,7 @@ title = "Curtin Association of Medical Students"
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    copyright_text = 'Designed by <a class="Sabiqul Hoque" href="https://www.sabiqulhoque.me">www.sabiqulhoque.me</a>'
 
 [menu]
   # Main Menu
@@ -59,7 +59,7 @@ title = "Curtin Association of Medical Students"
 
   [[menu.main]]
       name = "External Link"
-      url = "https://www.google.com/"
+      url = "https://www.google.com"
       weight = 4
 
   # Footer Menu
