@@ -1,17 +1,12 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Crystal Vong",
+    "description": "I am incredibly fortunate to have been a part of CAMS for the past two years and have watched it grown immensely, as a young society, since then. We are so fortunate to have a truly dynamic and enthusiastic team with us, ready to take on 2020, with many exciting ideas for events and opportunities for sponsors to get involved with.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Rahil",
+    "description": "I am so cool",
     "image": "images/features/noun_The Process_1885341.svg"
-  },
-  {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
