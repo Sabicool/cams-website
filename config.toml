@@ -38,12 +38,12 @@ title = "Curtin Association of Medical Students"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
+    name = "Events"
     url = "/services/"
       weight = 1
 
   [[menu.main]]
-      name = "Team"
+      name = "Committee"
       url = "/team/"
       weight = 2
 
@@ -53,7 +53,7 @@ title = "Curtin Association of Medical Students"
       weight = 3
 
   [[menu.main]]
-      name = "The Committee"
+      name = "Contact Us"
       url = "/contact/"
       weight = 4
 
