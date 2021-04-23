@@ -1,12 +1,12 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
-        "image": "images/social/github.svg"
+        "name": "Facebook",
+        "link": "https://www.facebook.com/CAMSsociety",
+        "image": "https://img.icons8.com/android/48/ffffff/facebook-new.png"
     },
     {
-        "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
-        "image": "images/social/twitter.svg"
+        "name": "Instagram",
+        "link": "https://www.instagram.com/curtinmed/?hl=en",
+        "image": "https://img.icons8.com/material/96/ffffff/instagram-new--v1.png"
     }
 ]

@@ -23,7 +23,7 @@ title = "Curtin Association of Medical Students"
     meta_og_title = "Curtin Association of Medical Students"
     meta_og_type = "website"
     meta_og_url = "https://sabiqulhoque.me/"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+    meta_og_image = "https://github.com/Sabicool"
     meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
     meta_twitter_card = "summary"
     meta_twitter_site = "@zerostaticio"
@@ -40,7 +40,7 @@ title = "Curtin Association of Medical Students"
   [[menu.main]]
     name = "Events"
     url = "/events/"
-      weight = 1
+      weight = 3
 
   [[menu.main]]
       name = "Committee"
@@ -50,7 +50,7 @@ title = "Curtin Association of Medical Students"
   [[menu.main]]
       name = "About"
       url = "/about/"
-      weight = 3
+      weight = 2
 
   [[menu.main]]
       name = "Contact Us"
@@ -59,8 +59,8 @@ title = "Curtin Association of Medical Students"
 
   [[menu.main]]
       name = "Join Us"
-      url = "https://www.google.com"
-      weight = 4
+      url = "https://docs.google.com/forms/d/e/1FAIpQLSflNwIcEt372D0vGNeiFvYXZ_bHC7oCxdODwYyCJIHry2fwUw/viewform"
+      weight = 1
 
   # Footer Menu
   [[menu.footer]]
