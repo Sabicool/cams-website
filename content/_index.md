@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: true
 
 # Curtin Association of Medical Students
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Curtin Association of Medical Students (CAMS) is the peak representative body for medical students at Curtin University. We aim to provide academic support through curriculum specific events, and encourage student involvement by developing inspiring and valuable events, aimed towards student development and engagement.
