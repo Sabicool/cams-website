@@ -1,10 +1,10 @@
 ---
-title: 'Services'
+title: 'Events'
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Events
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+CAMS hosts a number of events such as medicine orientated internship information nights and suturing nights as well as social events like warehouse party and CAMS ball
