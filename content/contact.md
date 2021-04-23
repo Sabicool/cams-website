@@ -4,13 +4,13 @@ date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Most enquiry emails can be sent to the admin email (above). For specific requests please see below.
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Name | Position| Email |
+| -------- | --------- | --------------- |
+| Rahil Ajmera | President | [president@curtinmedsoc.org.au](mailto:president@curtinmedsoc.org.au) |
+| Hadi Ahmed| Vice President External| [vpe@curtinmedsoc.org.au](mailto:vpe@curtinmedsoc.org.au) |
+| Alexander Dottore| Vice President Internal| [vpi@curtinmedsoc.org.au](mailto:vpi@curtinmedsoc.org.au) |
+| Michael Thomas | Treasurer | [treasurer@curtinmedsoc.org.au](mailto:treasurer@curtinmedsoc.org.au) |
+| Nathali Lagus | Secretary | [secretary@curtinmedsoc.org.au](mailto:secretary@curtinmedsoc.org.au) |
+| Sabiqul Hoque | IT | [it@curtinmedsoc.org.au](mailto:it@curtinmedsoc.org.au) |

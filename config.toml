@@ -39,12 +39,12 @@ title = "Curtin Association of Medical Students"
   # Main Menu
   [[menu.main]]
     name = "Events"
-    url = "/services/"
+    url = "/events/"
       weight = 1
 
   [[menu.main]]
       name = "Committee"
-      url = "/team/"
+      url = "/Committee/"
       weight = 2
 
   [[menu.main]]
@@ -58,7 +58,7 @@ title = "Curtin Association of Medical Students"
       weight = 4
 
   [[menu.main]]
-      name = "External Link"
+      name = "Join Us"
       url = "https://www.google.com"
       weight = 4
 
