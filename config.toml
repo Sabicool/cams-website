@@ -14,7 +14,7 @@ title = "Curtin Association of Medical Students"
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
+    desktop = "images/logo/whitebg.png"
     desktop_height = "36px"
     alt = "Serif - A Hugo Business Theme"
 
