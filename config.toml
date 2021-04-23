@@ -16,7 +16,7 @@ title = "Curtin Association of Medical Students"
     mobile_height = "36px"
     desktop = "images/logo/whitebg.png"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "CAMS"
 
   [params.homepage_meta_tags]
     meta_description = "The society for the students of Curtin University Medical School"
@@ -25,9 +25,6 @@ title = "Curtin Association of Medical Students"
     meta_og_url = "https://sabiqulhoque.me/"
     meta_og_image = "https://github.com/Sabicool"
     meta_og_description = "The society for the students of Curtin University Medical School"
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
 
   [params.team]
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
