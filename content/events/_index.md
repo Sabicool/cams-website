@@ -1,8 +1,8 @@
 ---
 title: 'Events'
-intro_image: "images/logo/whitebg.png"
+intro_image: ""
 intro_image_absolute: true
-intro_image_hide_on_mobile: false
+intro_image_hide_on_mobile: true
 ---
 
 # Events

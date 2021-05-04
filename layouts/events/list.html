@@ -5,13 +5,15 @@
   <div class="container">
     <div class="row justify-content-start">
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
-        {{ .Content }}
+	{{ .Content }}
+	<h3 class="content">Check if you're a member with us</h3>
+	<iframe width="312" height="69" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=E1A2ECB9DE5539A2%214211&authkey=%21AAHAIlxjlygMJDE&em=2&wdAllowInteractivity=False&AllowTyping=True&ActiveCell='WEBSITE%20CHECK'!A2&Item='WEBSITE%20CHECK'!A1%3AB2&wdInConfigurator=True"></iframe>
       </div>
       {{ if .Params.intro_image }}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-        <img
-          class="intro-image{{ if .Params.intro_image_absolute }} intro-image-absolute{{ end }}{{ if .Params.intro_image_hide_on_mobile }} intro-image-hide-mobile{{ end }}"
-          src="{{ .Params.intro_image | relURL }}" />
+	<img
+	  class="intro-image{{ if .Params.intro_image_absolute }} intro-image-absolute{{ end }}{{ if .Params.intro_image_hide_on_mobile }} intro-image-hide-mobile{{ end }}"
+	  src="{{ .Params.intro_image | relURL }}" />
       </div>
       {{ end }}
     </div>
