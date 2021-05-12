@@ -5,7 +5,7 @@ draft: false
 image: "images/team/Hadi.jpg"
 jobtitle: "Vice President External"
 promoted: true
-weight: 1
+weight: 2
 ---
 
 My job is to ...
