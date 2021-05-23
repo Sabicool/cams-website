@@ -59,6 +59,11 @@ title = "Curtin Association of Medical Students"
       url = "https://docs.google.com/forms/d/e/1FAIpQLSflNwIcEt372D0vGNeiFvYXZ_bHC7oCxdODwYyCJIHry2fwUw/viewform"
       weight = 4
 
+  [[menu.main]]
+      name = "Prospectus"
+      url = "/prospectus.pdf/"
+      weight = 4
+
   # Footer Menu
   [[menu.footer]]
     name = "Home"
