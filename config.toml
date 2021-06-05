@@ -64,6 +64,11 @@ title = "Curtin Association of Medical Students"
       url = "/prospectus.pdf/"
       weight = 4
 
+  [[menu.main]]
+    name = "Mental Health Corner"
+    url = "/mental_health_corner/about"
+      weight = 5
+
   # Footer Menu
   [[menu.footer]]
     name = "Home"
