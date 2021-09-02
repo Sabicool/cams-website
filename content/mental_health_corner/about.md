@@ -1,5 +1,6 @@
 ---
 title: 'Mental Health Corner'
+layout: default
 ---
 
 # Mental Health Corner
