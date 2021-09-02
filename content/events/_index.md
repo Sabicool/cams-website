@@ -1,6 +1,6 @@
 ---
 title: 'Events'
-intro_image: "images/eventcover-min.png"
+intro_image: "images/event-cover-new-2.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
